@@ -1,5 +1,5 @@
 {
-    "ads": {"network":"applovin","url":"https://play.google.com/store/apps/dev?id=8210134400811493079"},
+    "ads": {"network":"applovin","url":"https://play.google.com/store/apps/details?id=com.TachimangareaderAdvisor.AnaRejaeteQ"},
     "reword": {"items":"3/4"},
     
     "fan": {
