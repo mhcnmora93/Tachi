@@ -1,17 +1,17 @@
 {
-    "ads": {"network":"applovin","url":"https://play.google.com/store/apps/details?id=com.TachimangareaderAdvisor.AnaRejaeteQ"},
-    "reword": {"items":"3/4"},
+    "ads": {"network":"fan","url":"https://play.google.com/store/apps/details?id=com.TachimangareaderAdvisor.AnaRejaeteQ"},
+    "reword": {"items":"2/4/6/11"},
     
     "fan": {
-    "banner":"IMG_16_9_APP_INSTALL#1103439843731779_1103440660398364",
-    "inter":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "nativ":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "reword":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"},
+    "banner":"909555006863980_909557033530444",
+    "inter":"909555006863980_910430630109751",
+    "nativ":"909555006863980_910430816776399",
+    "reword":"909555006863980_910431033443044"},
     
     "applovin": {
-    "banner":"070cbb3caddfc9ba",
-    "inter":"9687533094d82acc",
-    "nativ":"45daaebddb13e33d",
-    "reword":"e765c24328222a4e"}
+    "banner":"",
+    "inter":"",
+    "nativ":"",
+    "reword":""}
       
     }
