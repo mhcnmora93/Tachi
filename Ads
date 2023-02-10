@@ -1,5 +1,5 @@
 {
-    "ads": {"network":"fan","url":"https://play.google.com/store/apps/details?id=com.TachimangareaderAdvisor.AnaRejaeteQ"},
+    "ads": {"network":"applovin","url":"https://play.google.com/store/apps/details?id=com.TachimangareaderAdvisor.AnaRejaeteQ"},
     "reword": {"items":"2/4/6/11"},
     
     "fan": {
@@ -9,9 +9,9 @@
     "reword":"909555006863980_910431033443044"},
     
     "applovin": {
-    "banner":"",
-    "inter":"",
-    "nativ":"",
-    "reword":""}
+    "banner":"070cbb3caddfc9ba",
+    "inter":"9687533094d82acc",
+    "nativ":"45daaebddb13e33d",
+    "reword":"e765c24328222a4e"}
       
     }
